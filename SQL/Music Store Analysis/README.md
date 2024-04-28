@@ -1,4 +1,4 @@
-# SQL_Project_Music_Store_Analysis
+# Music Store Data Analysis
 
 # Objective:-
 In this project I have examine the dataset with SQL and help the store understand its business growth.
@@ -17,10 +17,10 @@ In this project I have examine the dataset with SQL and help the store understan
 11.	Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount
 
 
-## Database and Tools
+# Database and Tools
 * Postgre SQL
 * PgAdmin4
 ![SQL](https://img.icons8.com/arcade/256/sql.png)
 
-Schema- Music Store Database  
-https://github.com/Addy-m9/DATA-ANALYST-PORTFOLIO/blob/main/SQL/Music%20Store%20Analysis/MusicDatabaseSchema.png
+# Schema- Music Store Database  
+![image](https://github.com/Addy-m9/DATA-ANALYST-PORTFOLIO/assets/47582953/90eb4ba1-16fa-42a0-b0db-e7743250e4fd)

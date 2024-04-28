@@ -20,6 +20,7 @@ In this project I have examine the dataset with SQL and help the store understan
 # Database and Tools
 * Postgre SQL
 * PgAdmin4
+  
 ![SQL](https://img.icons8.com/arcade/256/sql.png)
 
 # Schema- Music Store Database  

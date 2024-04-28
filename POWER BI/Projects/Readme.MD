@@ -1,3 +1,5 @@
+#DATA ANALYTICS WITH SQL
+
 Welcome to the world of data analytics with Power BI! Within this directory, you'll discover a compilation of projects and resources spotlighting the potency and adaptability of Power BI in data analysis.
 
 Power BI, a formidable data visualization tool, empowers users to transform raw data into actionable insights. Its robust features facilitate the creation of interactive dashboards and reports, enabling stakeholders to gain valuable insights at a glance. Enclosed in this repository are examples of Power BI reports and dashboards that demonstrate my proficiency in data analysis using this powerful tool.

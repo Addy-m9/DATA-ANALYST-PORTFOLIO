@@ -6,14 +6,14 @@ Terrorist attacks have become a serious source of risk affecting the security of
 
 Key Findings:
 
-Regional Hotspots: Identify regions most affected by terrorism, pinpointing areas of heightened risk and facilitating targeted interventions.
+1. Regional Hotspots: Identify regions most affected by terrorism, pinpointing areas of heightened risk and facilitating targeted interventions.
 
-Trend Analysis: Uncover evolving patterns and tactics employed by terrorist groups, enabling proactive countermeasures and strategic responses.
+2. Trend Analysis: Uncover evolving patterns and tactics employed by terrorist groups, enabling proactive countermeasures and strategic responses.
 
-Impact Assessment: Assess the socio-economic impact of terrorism on affected communities, informing resource allocation and humanitarian efforts.
+3. Impact Assessment: Assess the socio-economic impact of terrorism on affected communities, informing resource allocation and humanitarian efforts.
 
-Demographic Insights: Explore demographic profiles of perpetrators and victims, offering nuanced understanding for tailored prevention strategies.
+4. Demographic Insights: Explore demographic profiles of perpetrators and victims, offering nuanced understanding for tailored prevention strategies.
 
-Technological Solutions: Harness cutting-edge technology to enhance data visualization and predictive analytics, fostering actionable intelligence for stakeholders.
+5. Technological Solutions: Harness cutting-edge technology to enhance data visualization and predictive analytics, fostering actionable intelligence for stakeholders.
 
 ![image](https://github.com/Addy-m9/DATA-ANALYST-PORTFOLIO/blob/main/POWER%20BI/Projects/Global%20Terrorism%20Analysis/Global%20Terrorism%20Analysis.PNG)

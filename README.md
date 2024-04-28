@@ -12,7 +12,7 @@ Beyond technical prowess, I pride myself on my strategic approach to data analys
 
 Confident that my adeptness in data analytics positions me as an ideal candidate for any data analyst role, I invite you to explore my portfolio and welcome the opportunity to delve further into my qualifications.
 
-Thank you for your time, and I eagerly anticipate the possibility of further discussion."
+Thank you for your time, and I eagerly anticipate the possibility of further discussion.
 
 
 

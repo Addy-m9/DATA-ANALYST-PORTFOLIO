@@ -1,4 +1,4 @@
-# DATA ANALYTICS WITH SQL
+# Data Analytics with SQL
 
 Welcome to the realm of data analytics through SQL! Within this directory, you'll uncover a compilation of projects and references showcasing SQL's robustness and adaptability in data analysis.
 

@@ -1,4 +1,4 @@
-# DATA ANALYTICS POTFOLIO
+# DATA ANALYTICS PORTFOLIO
 
 Welcome to my Data Analyst Portfolio!
 

@@ -24,4 +24,4 @@ In this project I have examine the dataset with SQL and help the store understan
 ![SQL](https://img.icons8.com/arcade/256/sql.png)
 
 # Schema- Music Store Database  
-https://github.com/Addy-m9/DATA-ANALYST-PORTFOLIO/blob/main/SQL/Projects/SQL%20Music%20Store%20Analysis/MusicDatabaseSchema.png
+![image](https://github.com/Addy-m9/DATA-ANALYST-PORTFOLIO/assets/47582953/e399eb24-9fd5-494c-996d-1959d4a7df46)

@@ -12,4 +12,5 @@ Take a peek at what's in store:
 
 4) Historical Context: Gain a deeper understanding of the Titanic disaster through historical context and insights.
 
-https://github.com/Addy-m9/DATA-ANALYST-PORTFOLIO/blob/main/POWER%20BI/Projects/Titanic%20ship%20Analysis/Titanic%20Ship%20Analysis%20Dashboard.PNG?raw=true
+![image](https://github.com/Addy-m9/DATA-ANALYST-PORTFOLIO/blob/main/POWER%20BI/Projects/Titanic%20ship%20Analysis/Titanic%20Ship%20Analysis%20Dashboard.PNG?raw=true)
+![image](https://github.com/Addy-m9/DATA-ANALYST-PORTFOLIO/assets/47582953/e399eb24-9fd5-494c-996d-1959d4a7df46)

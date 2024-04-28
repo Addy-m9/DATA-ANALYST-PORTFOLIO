@@ -1,4 +1,4 @@
-#DATA ANALYTICS WITH SQL
+# DATA ANALYTICS WITH Power BI
 
 Welcome to the world of data analytics with Power BI! Within this directory, you'll discover a compilation of projects and resources spotlighting the potency and adaptability of Power BI in data analysis.
 

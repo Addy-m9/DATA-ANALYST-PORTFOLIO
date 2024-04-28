@@ -23,7 +23,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 * Microsoft Power BI
 * Power Query
-* Dax Query
+* DAX Query
 
 
 ## Badges

@@ -1,8 +1,6 @@
 # DATA ANALYTICS WITH SQL
 
-Welcome to the realm of data analytics through SQL!
-
-Within this directory, you'll uncover a compilation of projects and references showcasing SQL's robustness and adaptability in data analysis.
+Welcome to the realm of data analytics through SQL! Within this directory, you'll uncover a compilation of projects and references showcasing SQL's robustness and adaptability in data analysis.
 
 SQL, commonly known as Structured Query Language, emerges as a potent instrument for data management and analysis. It empowers users to execute intricate queries and distill valuable insights from expansive and intricate datasets. Enclosed in this repository are instances of SQL queries and scripts, serving as testaments to my proficiency in data analysis utilizing SQL.
 

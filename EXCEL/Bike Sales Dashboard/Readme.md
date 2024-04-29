@@ -39,7 +39,6 @@ To explore the project:
 2. Open the Excel file using Microsoft Excel or an equivalent spreadsheet software.
 3. Navigate through the different sheets to view the data, pivot tables, charts, and the interactive dashboard.
 
-Feel free to customize the project according to your needs and use it as a reference for your own Excel-based analysis.
 
 ![Bike Sales Dashboard](https://github.com/Addy-m9/DATA-ANALYST-PORTFOLIO/blob/main/EXCEL/Bike%20Sales%20Dashboard/Bike%20Sales%20Dashboard.PNG)
 
@@ -47,5 +46,5 @@ Feel free to customize the project according to your needs and use it as a refer
 
 This project is licensed under the [MIT License](LICENSE).
 
-Feel free to use, share, and adapt the content. If you have any feedback or suggestions, please let us know. Enjoy your sales analysis journey!
+
 

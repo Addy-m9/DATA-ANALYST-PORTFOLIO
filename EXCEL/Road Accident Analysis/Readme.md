@@ -17,9 +17,5 @@ The client wants to create a Road Dashboard for years 2021 and 2022 so that they
 The data used is road accident data of uk having 3.07 million rows and 21 fields for the years 2021 and 2022. Data is stored in a single table.
 # Analyses derived from the dataset
 ## Overview 
-![Untitled design](https://github.com/jivanjotk/Road-Accident-Dashboard-Excel-Project/assets/122741477/35fe8e66-586b-48da-98a0-831a95f375d4)
-## Timeline and Slicers 
-
-
 ![Road-Accident-Dashboard-Excel-Project](https://github.com/Addy-m9/DATA-ANALYST-PORTFOLIO/blob/main/EXCEL/Road%20Accident%20Analysis/Road%20Accident%20Dashboard.PNG)
 

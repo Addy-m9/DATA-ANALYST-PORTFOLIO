@@ -4,12 +4,6 @@
   <img width="700" height="170" src="https://user-images.githubusercontent.com/124501309/227756844-5972e656-be9a-4c97-a0a0-ef5aae750a12.png">
 </p>
 
-## Links:
-Lets Connect 
-
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
-
-[Go to My Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/HRANALYTICSDASHBOARD-ACOMPLETEEMPLOYEEDATAANALYSIS/HRDashboard?publish=yes)
 
 ## PROJECT NAME:
 
